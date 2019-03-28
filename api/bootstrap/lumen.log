@@ -1,0 +1,8 @@
+[2018-08-06 09:15:47] local.ERROR: Symfony\Component\Debug\Exception\FatalThrowableError: Call to undefined method Laravel\Lumen\Application::configureMonologUsing() in /www/server/game/api/bootstrap/app.php:50
+Stack trace:
+#0 /www/server/game/api/public/index.php(14): require()
+#1 {main} {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Laravel\\Lumen\\Application::configureMonologUsing() at /www/server/game/api/bootstrap/app.php:50)
+[stacktrace]
+#0 /www/server/game/api/public/index.php(14): require()
+#1 {main}
+"} 
